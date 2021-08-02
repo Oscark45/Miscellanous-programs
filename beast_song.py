@@ -14,6 +14,9 @@ sequence consisting of 1 or 2 depending which I hear.
 
 My hypothesis is correct xD They really do sound different. My headphones
 especially allow to hear it. Isn't coding fun :DDDD
+
+The song is MrBeast (Trap Remix) Outro Song - ST6
+https://www.youtube.com/watch?v=VuHl7QNtp6U
 """
 
 from pygame import mixer  
