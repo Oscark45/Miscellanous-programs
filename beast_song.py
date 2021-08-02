@@ -3,9 +3,20 @@
 Created on Mon Aug  2 22:15:45 2021
 
 @author: Oscar
+
+There is a song I really like and there is one part that loops. 
+However I started to notice that the clips sound slightly different but I 
+wasn't sure if it just depended what I wanted to hear or my mood.
+
+So I wrote this program to test that hypothesis by randomly playing 
+one of the clips each time listening several times and writing the
+sequence consisting of 1 or 2 depending which I hear.
+
+My hypothesis is correct xD They really do sound different. My headphones
+especially allow to hear it. Isn't coding fun :DDDD
 """
 
-from pygame import mixer  # Load the popular external library
+from pygame import mixer  
 import os
 import numpy as np
 import time
